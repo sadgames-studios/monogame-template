@@ -13,7 +13,7 @@ We will have some basic scripts:
 All these scripts can be launched from our mg_build_run.sh file, which will do all 3 commands.
 This can be adapted to your project.
 
-##MonoGame 
+## MonoGame 
 Monogame Base Project.
 This project will be the starting point of our game.
 It contains:
@@ -23,6 +23,6 @@ It contains:
 4) Entity System
 5) Layouts System
 
-This project uses ImGui to render our UI in our game, read implementation about LayoutSystem for more information.
-
-A new `editor` project is added which will be linked in our Monogame, it will have all references to __ImGui__. 
+## ImGui
+<p>This project uses ImGui to render our UI in our game, read implementation about LayoutSystem for more information.</p>
+<p>A new `editor` project is added which will be linked in our Monogame, it will have all references to __ImGui__.</p>
